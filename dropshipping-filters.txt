@@ -1,12 +1,13 @@
 ! Title: Switzerland Dropshipping Block List
 ! Description: Problematic dropshipping shops identified by Konsumentenschutz.ch
+! Homepage: https://github.com/kdansky/switzerland-dropshipping
 ! Source: https://www.konsumentenschutz.ch/online-ratgeber/dropshipping-die-stolpersteine-beim-onlinehandel-mit-billigware-aus-china/
-! Last updated: 2026-05-20T12:59:19+00:00
+! Last modified: 2026-05-21T10:45:21+00:00
+! Version: 202605211045
+! Expires: 1 day (update frequency)
 ! Entries: 1454
-! Homepage: https://github.com/YOUR_USERNAME/switzerland-dropshipping
 !
 ||adamandrose-clo.com^
-||stucki-luzern.ch^
 ||adams-fashion.com^
 ||adhs.store^
 ||adonti.com^
