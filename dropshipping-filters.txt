@@ -2,74 +2,74 @@
 ! Description: Problematic dropshipping shops identified by Konsumentenschutz.ch
 ! Homepage: https://github.com/kdansky/switzerland-dropshipping
 ! Source: https://www.konsumentenschutz.ch/online-ratgeber/dropshipping-die-stolpersteine-beim-onlinehandel-mit-billigware-aus-china/
-! Last modified: 2026-05-21T10:45:21+00:00
+! Last modified: 2026-05-21T10:45:56+00:00
 ! Version: 202605211045
 ! Expires: 1 day (update frequency)
-! Entries: 1454
+! Entries: 818 active, 636 commented out (no DNS)
 !
-||adamandrose-clo.com^
-||adams-fashion.com^
+! ||adamandrose-clo.com^
+! ||adams-fashion.com^
 ||adhs.store^
 ||adonti.com^
-||adrina-zurich.ch^
+! ||adrina-zurich.ch^
 ||adventure-shop.at^
-||adventures-world.com^
-||aeroback.ch^
-||agogpets.ch^
+! ||adventures-world.com^
+! ||aeroback.ch^
+! ||agogpets.ch^
 ||akkupc.ch^
 ||akkusnotebook.com^
-||aktiveexerse.ch^
-||aktivgesund.ch^
-||aktuelle-rezensionen.com^
+! ||aktiveexerse.ch^
+! ||aktivgesund.ch^
+! ||aktuelle-rezensionen.com^
 ||albrechtmode.de^
-||alectra.ch^
-||alex-mode.de^
-||all-storeschweiz.ch^
+! ||alectra.ch^
+! ||alex-mode.de^
+! ||all-storeschweiz.ch^
 ||allegracrystaljewellery.com^
 ||allesfuerkueche.de^
 ||alltego.ch^
 ||allyourneeds.ch^
-||almas-butik.dk^
+! ||almas-butik.dk^
 ||almora.ch^
 ||alp-shop.ch^
-||alpen-luxe.ch^
-||alpen-modehaus.ch^
+! ||alpen-luxe.ch^
+! ||alpen-modehaus.ch^
 ||alpen-modehaus.com^
 ||alpenfit.ch^
 ||alpenfluss.ch^
 ||alpengesund.ch^
 ||alpenia.ch^
-||alpenkrone.ch^
+! ||alpenkrone.ch^
 ||alpenmarket.ch^
 ||alpensattel.de^
-||alpexswiss.com^
-||alphara.ch^
-||alpine-elegance.ch^
-||alpine-eleganz.com^
-||alpineattire.ch^
-||alpinelegance.com^
+! ||alpexswiss.com^
+! ||alphara.ch^
+! ||alpine-elegance.ch^
+! ||alpine-eleganz.com^
+! ||alpineattire.ch^
+! ||alpinelegance.com^
 ||alpiner-stil.com^
-||alpinesure.ch^
+! ||alpinesure.ch^
 ||alpyn.ch^
 ||alurea.ch^
-||alzenaswiss.com^
-||amawa.ch^
+! ||alzenaswiss.com^
+! ||amawa.ch^
 ||amelia-zurich.ch^
-||ameliquezrh.com^
-||amnio.ch^
+! ||ameliquezrh.com^
+! ||amnio.ch^
 ||amodefashion.com^
 ||amora-bern.ch^
-||amora-mode.com^
-||amoremoda.ch^
+! ||amora-mode.com^
+! ||amoremoda.ch^
 ||andersenbutik.dk^
-||andersentrondheim.com^
+! ||andersentrondheim.com^
 ||aninu.de^
-||aniwild.ch^
-||anna-modehaus.ch^
-||anna-modehaus.com^
-||annaszurich.com^
-||apexvistade.com^
-||aquil.ch^
+! ||aniwild.ch^
+! ||anna-modehaus.ch^
+! ||anna-modehaus.com^
+! ||annaszurich.com^
+! ||apexvistade.com^
+! ||aquil.ch^
 ||ardena.ch^
 ||ardeni.ch^
 ||areliagems.com^
@@ -81,116 +81,116 @@
 ||aspiria.ch^
 ||astridpedersen.com^
 ||atelierluzern.com^
-||atluminara.com^
-||aurashop.ch^
+! ||atluminara.com^
+! ||aurashop.ch^
 ||aureliezurich.ch^
-||aureliusmode.ch^
+! ||aureliusmode.ch^
 ||aurenzurich.ch^
 ||aurivo.de^
 ||autogear.ch^
-||autoprinz.ch^
-||autumnofferoasis.com^
+! ||autoprinz.ch^
+! ||autumnofferoasis.com^
 ||avelena.de^
 ||avencea.com^
-||avenueswiss.ch^
-||avery-zurich.ch^
+! ||avenueswiss.ch^
+! ||avery-zurich.ch^
 ||avuso.de^
-||aymozino.ch^
-||ayvista.ch^
-||azari.ch^
+! ||aymozino.ch^
+! ||ayvista.ch^
+! ||azari.ch^
 ||azoo.ch^
 ||azzlee.fr^
-||babyboss.ch^
+! ||babyboss.ch^
 ||babyjeta.ch^
 ||babylogik.ch^
-||babyparadies-schweiz.ch^
+! ||babyparadies-schweiz.ch^
 ||baeverly.ch^
-||baey.ch^
+! ||baey.ch^
 ||bafinstore.ch^
 ||balany.ch^
 ||balex-zurich.com^
 ||balus.ch^
-||barbayl.ch^
+! ||barbayl.ch^
 ||barefooted.de^
 ||barekick.com^
 ||barfuss-step.ch^
-||barfusschweiz.ch^
-||basel-belle.com^
+! ||barfusschweiz.ch^
+! ||basel-belle.com^
 ||baseltrend.com^
 ||bastoz.ch^
-||bauluvio.ch^
-||bauluvio.com^
+! ||bauluvio.ch^
+! ||bauluvio.com^
 ||baumann-modehaus.com^
-||baumannbern.com^
+! ||baumannbern.com^
 ||baumannzurich.ch^
-||baumgartner-ortho.ch^
-||bazeus.ch^
+! ||baumgartner-ortho.ch^
+! ||bazeus.ch^
 ||beamerwelt.ch^
 ||beautiva.ch^
 ||beautything.ch^
 ||becker-boutique.com^
 ||becker-modehaus.de^
-||beckmannberlin.de^
-||belavie.ch^
-||bellabasel.ch^
+! ||beckmannberlin.de^
+! ||belavie.ch^
+! ||bellabasel.ch^
 ||bellachicha.com^
-||bellajolie.ch^
+! ||bellajolie.ch^
 ||bellebclothing.ch^
-||bellebern.ch^
+! ||bellebern.ch^
 ||bellesofie.de^
 ||belleva.de^
-||bellevo.ch^
-||bellezas.ch^
+! ||bellevo.ch^
+! ||bellezas.ch^
 ||belloova.com^
 ||belluna.ch^
-||belmari.ch^
+! ||belmari.ch^
 ||belvital.ch^
 ||bemolino.ch^
-||bennett-sydney.com^
-||bennettandbloom.ch^
-||bequemeschuhe.info^
+! ||bennett-sydney.com^
+! ||bennettandbloom.ch^
+! ||bequemeschuhe.info^
 ||berg-mode.de^
 ||berge-bern.com^
-||berger-luzern.ch^
+! ||berger-luzern.ch^
 ||bergerzurich.com^
 ||bergkraftshop.ch^
 ||bergmode.ch^
 ||bergschatz.de^
 ||bergwalt-mode.com^
 ||bergxperten.de^
-||berlinboutiqueshop-de.com^
-||berlinfashionstore.com^
+! ||berlinboutiqueshop-de.com^
+! ||berlinfashionstore.com^
 ||bernlive.com^
 ||bernsoutlet.com^
 ||bernstil.ch^
-||beste-mode.ch^
+! ||beste-mode.ch^
 ||bestsellr.ch^
-||betheknow.com^
-||betterbreathe.ch^
+! ||betheknow.com^
+! ||betterbreathe.ch^
 ||bh-welt.ch^
-||bigrey.ch^
+! ||bigrey.ch^
 ||bikeheroes.at^
-||bingen.ch^
+! ||bingen.ch^
 ||binoyo.com^
 ||black-ueli.ch^
 ||blazevideo.ch^
-||blinix.ch^
-||blinkhub.ch^
+! ||blinix.ch^
+! ||blinkhub.ch^
 ||blissberlin.de^
-||blizzari.ch^
-||blues-zurich.com^
+! ||blizzari.ch^
+! ||blues-zurich.com^
 ||blumiya.ch^
-||blurey.ch^
-||bohmezurich.com^
+! ||blurey.ch^
+! ||bohmezurich.com^
 ||bon-chance.ch^
-||bonidashop.ch^
-||bonidashop.com^
+! ||bonidashop.ch^
+! ||bonidashop.com^
 ||bosco-ch.com^
-||boutique-bern.ch^
-||boutique-maximon.ch^
-||boutiqueamrhyy.ch^
+! ||boutique-bern.ch^
+! ||boutique-maximon.ch^
+! ||boutiqueamrhyy.ch^
 ||boutiqueschweiz.ch^
-||boutiquevivante.com^
+! ||boutiquevivante.com^
 ||boxhero-deutschland.com^
 ||boxhero.co^
 ||brillanta.ch^
@@ -198,322 +198,322 @@
 ||brunnerzurich.com^
 ||bruu.ch^
 ||bubbelwelt.ch^
-||bucher-zurich.ch^
+! ||bucher-zurich.ch^
 ||buchermode.ch^
-||budbella.ch^
-||buddypaw.ch^
+! ||budbella.ch^
+! ||buddypaw.ch^
 ||buenome.com^
 ||bunj.ch^
 ||burelia.com^
 ||buynblue.com^
 ||bybalita.de^
 ||bycheri.de^
-||calestria.de^
+! ||calestria.de^
 ||calmeo.ch^
-||calmpulse.ch^
+! ||calmpulse.ch^
 ||camila-geneve.com^
-||campwild.ch^
-||canodostreetwear.com^
+! ||campwild.ch^
+! ||canodostreetwear.com^
 ||cardrip.de^
 ||cartio.ch^
 ||cartsy.ch^
-||casenora.com^
+! ||casenora.com^
 ||casey-london.com^
 ||catherine-ellington.com^
-||cattitude.ch^
-||catzcat.ch^
+! ||cattitude.ch^
+! ||catzcat.ch^
 ||catzyfied.ch^
-||cavallozurich.com^
-||caveria.se^
-||celana-berlin.de^
+! ||cavallozurich.com^
+! ||caveria.se^
+! ||celana-berlin.de^
 ||celana.de^
-||celestino-firenze.it^
-||ceozurich.store^
+! ||celestino-firenze.it^
+! ||ceozurich.store^
 ||ch.gesundpur.at^
 ||ch.minopia.com^
 ||charvere.com^
 ||che.grandado.com^
-||check-it-out.ch^
+! ||check-it-out.ch^
 ||chefbrett.ch^
-||chicley.de^
-||chiclyberlin.de^
-||chiclyzurich.ch^
+! ||chicley.de^
+! ||chiclyberlin.de^
+! ||chiclyzurich.ch^
 ||chicquemoda.com^
-||clark-fashion.com^
+! ||clark-fashion.com^
 ||claudia-atelier.de^
 ||claudiasschmuck.ch^
 ||cleora-mode.com^
 ||clerasse.ch^
-||clickthrills.ch^
+! ||clickthrills.ch^
 ||clixir.ch^
-||clodaa.ch^
+! ||clodaa.ch^
 ||cogal.ch^
-||coleter.ro^
-||coleter.se^
-||collenzo.ch^
-||comfortly.ch^
-||comfy-family.co^
+! ||coleter.ro^
+! ||coleter.se^
+! ||collenzo.ch^
+! ||comfortly.ch^
+! ||comfy-family.co^
 ||comfyfamily.co^
 ||comfyknirpse.ch^
-||convido.ch^
-||coolbe.ch^
-||coolect.ch^
+! ||convido.ch^
+! ||coolbe.ch^
+! ||coolect.ch^
 ||coozy.ch^
-||copona.ch^
+! ||copona.ch^
 ||coreex.ch^
 ||cosmos-bracelets.co^
 ||couturelondon.uk^
 ||cozeymaison.com^
 ||cozo.ch^
-||cozyandcasa.com^
-||cozysteps.ch^
+! ||cozyandcasa.com^
+! ||cozysteps.ch^
 ||cozytime.ch^
 ||cozyva.ch^
 ||cramer.ch^
-||createhome.ch^
+! ||createhome.ch^
 ||crossy.ch^
-||csomagpostas.hu^
+! ||csomagpostas.hu^
 ||cuddle-cloud.com^
 ||curemedici.com^
 ||czarinajewellery.com^
-||daily-finds.ch^
-||dailyhome.ch^
-||dailymode.co.uk^
-||dailythings.ch^
-||dalindo.ch^
+! ||daily-finds.ch^
+! ||dailyhome.ch^
+! ||dailymode.co.uk^
+! ||dailythings.ch^
+! ||dalindo.ch^
 ||dalson.ch^
-||dambo.ch^
-||das-essentials.ch^
+! ||dambo.ch^
+! ||das-essentials.ch^
 ||das-montessori-spielzeug.de^
-||daseine.ch^
-||dashausderjuwelenschweiz.com^
+! ||daseine.ch^
+! ||dashausderjuwelenschweiz.com^
 ||dashdeal.ch^
-||dashstore.ch^
-||davincidaslabel.ch^
-||davincidaslabel.de^
+! ||dashstore.ch^
+! ||davincidaslabel.ch^
+! ||davincidaslabel.de^
 ||daxda.ch^
 ||de.doogee.com^
 ||deallora.ch^
-||debruin-mode.nl^
+! ||debruin-mode.nl^
 ||decarba.ch^
-||decorall.ch^
-||decorbycharm.shop^
+! ||decorall.ch^
+! ||decorbycharm.shop^
 ||deedlite.de^
 ||dein-modehaus.de^
 ||dein-pfotenfreund.com^
 ||dein-tierbedarf.ch^
 ||deinadvent.ch^
 ||dekoundwohn.com^
-||delopi.ch^
+! ||delopi.ch^
 ||deluxo.ch^
-||denmark-fashion.com^
+! ||denmark-fashion.com^
 ||derila.ch^
 ||derilaergo.ch^
 ||dermalux-swiss.ch^
 ||deskease.ch^
 ||devako.ch^
 ||dexus.ch^
-||dharokfashion.com^
+! ||dharokfashion.com^
 ||diardimats.com^
 ||dijara.ch^
 ||directnine.ch^
-||divenza.ch^
+! ||divenza.ch^
 ||diverla.ch^
 ||dogadore.ch^
-||dogbow.de^
-||donistas.com^
+! ||dogbow.de^
+! ||donistas.com^
 ||doogee.com^
-||douglasbrisbane.com^
-||drappo.ch^
-||drcomfy.ch^
-||dream-luxe.ch^
+! ||douglasbrisbane.com^
+! ||drappo.ch^
+! ||drcomfy.ch^
+! ||dream-luxe.ch^
 ||dreamingstitch.com^
 ||dreamydeko.ch^
-||dressnoble.ch^
+! ||dressnoble.ch^
 ||dressydeals.com^
-||drucklos.ch^
+! ||drucklos.ch^
 ||duboismode.fr^
 ||dulopi.com^
 ||dy-rev.com^
 ||dydoo.ch^
-||dylan-duesseldorf.de^
+! ||dylan-duesseldorf.de^
 ||easymart.ch^
-||eclea-shop.ch^
+! ||eclea-shop.ch^
 ||eco-tuch.ch^
-||edge-london.com^
+! ||edge-london.com^
 ||editron.ch^
 ||edora.ch^
 ||eifachgseit.ch^
 ||eiseamodehaus.ch^
 ||eisring.ch^
-||elegantum.ch^
+! ||elegantum.ch^
 ||eleganz-haus.de^
 ||elenastil.com^
 ||elevenforest.com^
-||elitesportique.ch^
-||ella-brown.co.uk^
-||ella-brownuk.com^
+! ||elitesportique.ch^
+! ||ella-brown.co.uk^
+! ||ella-brownuk.com^
 ||elle-zurich.com^
 ||ellensstore.ch^
 ||elleven.ch^
 ||ellies-favorites.ch^
 ||elowa.ch^
-||elphono.ch^
+! ||elphono.ch^
 ||eluno.ch^
 ||emaschmuck.com^
-||emilia-meyer.ch^
-||emilia-zurich.com^
+! ||emilia-meyer.ch^
+! ||emilia-zurich.com^
 ||emma-keller.de^
 ||emmafrey.ch^
-||emmalugano.ch^
-||emmaogliv.com^
+! ||emmalugano.ch^
+! ||emmaogliv.com^
 ||emmaschmuck.com^
-||emmastore.ch^
+! ||emmastore.ch^
 ||emporium-fashion.ch^
-||enchantelugano.ch^
+! ||enchantelugano.ch^
 ||energieexplorers.ch^
 ||enjoyl.ch^
-||enoque.ch^
-||entuno.ch^
+! ||enoque.ch^
+! ||entuno.ch^
 ||enzocavalli.com^
-||ergotrek.ch^
-||erinda-swiss.com^
-||erisen.ch^
+! ||ergotrek.ch^
+! ||erinda-swiss.com^
+! ||erisen.ch^
 ||escherzuerich.ch^
 ||eternellemode.ch^
 ||eu.craftdlondon.com^
 ||eudorashops.com^
-||euva.ch^
+! ||euva.ch^
 ||evaly.de^
 ||ever-shape.nl^
-||everisfashion.com^
+! ||everisfashion.com^
 ||evershave.ch^
 ||everstore.ch^
-||evo-shoes.com^
-||evoexpress.ch^
-||evoria.ch^
+! ||evo-shoes.com^
+! ||evoexpress.ch^
+! ||evoria.ch^
 ||exclusivgadgets.ch^
-||expedacteur.fr^
+! ||expedacteur.fr^
 ||express-online.ch^
-||exquisites-swiss.com^
+! ||exquisites-swiss.com^
 ||fabelin.de^
 ||fableflutter.store^
 ||falken-stein.de^
-||famechi.ch^
+! ||famechi.ch^
 ||fancy-stuff.ch^
-||fashion-moda.ch^
+! ||fashion-moda.ch^
 ||fashion-peak.com^
-||fashion-schweiz.com^
+! ||fashion-schweiz.com^
 ||fashionhaus-klund.de^
-||fastem.ch^
-||felber-mode.ch^
+! ||fastem.ch^
+! ||felber-mode.ch^
 ||feldluft.de^
 ||feldmann-munchen.com^
 ||feluu.com^
 ||festberg.com^
-||fevala.com^
+! ||fevala.com^
 ||finalea.ch^
-||finbo.ch^
-||finisio.ch^
-||fiolaberlin.ch^
-||fiolazurich.ch^
+! ||finbo.ch^
+! ||finisio.ch^
+! ||fiolaberlin.ch^
+! ||fiolazurich.ch^
 ||fiona-zurich.ch^
-||fiorabasel.ch^
-||firstyou.ch^
+! ||fiorabasel.ch^
+! ||firstyou.ch^
 ||fischer-boutique.ch^
-||fischer-zurich.ch^
+! ||fischer-zurich.ch^
 ||fischer-zurich.com^
 ||fischer-zurich.shop^
 ||fitast.ch^
 ||fitshape.ch^
-||fitspine.ch^
+! ||fitspine.ch^
 ||flair-hamburg.de^
 ||flair-mode.com^
 ||flairity.ch^
-||flariix.ch^
+! ||flariix.ch^
 ||flawlesss.ch^
-||flaza.ch^
-||fleecie.ch^
-||flexia.ch^
-||flexup.ch^
+! ||flaza.ch^
+! ||fleecie.ch^
+! ||flexia.ch^
+! ||flexup.ch^
 ||flexysculpt.ch^
-||fline-amsterdam.nl^
+! ||fline-amsterdam.nl^
 ||fluffy-feet.ch^
-||fomazi.ch^
-||foraa.ch^
+! ||fomazi.ch^
+! ||foraa.ch^
 ||foxypets.ch^
 ||fraule.ch^
 ||frederiksen-fashion.com^
 ||freekee.ch^
 ||frest.shop^
 ||freymode.ch^
-||friedrichmode.de^
+! ||friedrichmode.de^
 ||fruugoschweiz.com^
 ||fudus.de^
 ||fulanda.com^
-||fullmoonsummer.com^
+! ||fullmoonsummer.com^
 ||funfeet.ch^
 ||furlove.ch^
-||fusevio.ch^
+! ||fusevio.ch^
 ||fusion-recovery.com^
 ||gadgetdeal.ch^
 ||gadgeter.ch^
 ||gadwing.ch^
 ||gallerix.ch^
 ||garduru.de^
-||gartenhans.ch^
-||gatellea.ch^
+! ||gartenhans.ch^
+! ||gatellea.ch^
 ||gaudard-zurich.ch^
-||gazellea.ch^
+! ||gazellea.ch^
 ||gem-hanbss.com^
-||generalissimo.ch^
-||genez.ch^
+! ||generalissimo.ch^
+! ||genez.ch^
 ||genfboutique.com^
 ||genial4you.ch^
 ||genrall.com^
-||gentshouse.de^
-||gesund-aktuell.at^
-||getcozysteps.com^
+! ||gentshouse.de^
+! ||gesund-aktuell.at^
+! ||getcozysteps.com^
 ||getkaufen.com^
 ||giftbuddy.ch^
-||giftie.ch^
-||gifture.ch^
-||gigi-geneva.ch^
-||giofra.ch^
-||giverly.ch^
-||glam-bay.de^
-||glamfashion.ch^
+! ||giftie.ch^
+! ||gifture.ch^
+! ||gigi-geneva.ch^
+! ||giofra.ch^
+! ||giverly.ch^
+! ||glam-bay.de^
+! ||glamfashion.ch^
 ||glamore.ch^
-||glamoura.ch^
-||glamstore.ch^
-||glamway.nl^
+! ||glamoura.ch^
+! ||glamstore.ch^
+! ||glamway.nl^
 ||glanzberg-mode.de^
 ||glanzmeister.ch^
-||glitterqueen.ch^
+! ||glitterqueen.ch^
 ||globalbuyer.ch^
-||glomely.com^
+! ||glomely.com^
 ||glorierswitzerland.com^
 ||glowholic.ch^
 ||glownow.ch^
-||glowyhome.ch^
-||glowyshop.ch^
+! ||glowyhome.ch^
+! ||glowyshop.ch^
 ||glpformula.com^
-||go-breath.com^
+! ||go-breath.com^
 ||gobites.ch^
 ||gomenin.com^
-||gomode.ch^
+! ||gomode.ch^
 ||goodibuy.ch^
-||gosnap.ch^
+! ||gosnap.ch^
 ||grace-bags.com^
-||graf-zuerich.ch^
+! ||graf-zuerich.ch^
 ||green-aroma.ch^
-||gschenkt.ch^
+! ||gschenkt.ch^
 ||gsm55.ch^
 ||gut-daheim.ch^
 ||guxdu.ch^
 ||gym4.ch^
-||gymfinity.ch^
-||haarlemavenue.nl^
+! ||gymfinity.ch^
+! ||haarlemavenue.nl^
 ||hallobh.de^
 ||haltungshelfer.de^
 ||haluxy.com^
@@ -521,51 +521,51 @@
 ||handymama.ch^
 ||hansen-mode.com^
 ||happybabys.ch^
-||happyflops.ch^
+! ||happyflops.ch^
 ||happyflops.de^
 ||harielle.ch^
-||harper-brown.co.uk^
-||harper-brownuk.com^
+! ||harper-brown.co.uk^
+! ||harper-brownuk.com^
 ||hartmannmode.de^
-||hase-eule.com^
+! ||hase-eule.com^
 ||haushero.ch^
-||hausmode-clo.de^
+! ||hausmode-clo.de^
 ||heikkinenhelsinki.com^
 ||heimeiche.de^
 ||heinrichmode.de^
-||hejbuddy.ch^
+! ||hejbuddy.ch^
 ||hello-mausi.de^
-||hello-noveo.ch^
-||hellobeaume.com^
-||hellonoveo.ch^
+! ||hello-noveo.ch^
+! ||hellobeaume.com^
+! ||hellonoveo.ch^
 ||helvetashop.ch^
 ||helvetia-mode.com^
-||helvetisch-stil.com^
-||helvezen.com^
+! ||helvetisch-stil.com^
+! ||helvezen.com^
 ||helvika.ch^
 ||herbergerversand.ch^
 ||herrlampe.com^
 ||herrmann-modehaus.de^
-||herrmannmode.de^
-||herveybay-boutique.com^
-||herz-moment.ch^
+! ||herrmannmode.de^
+! ||herveybay-boutique.com^
+! ||herz-moment.ch^
 ||herzhaftes.ch^
-||heute-einkaufen.ch^
-||hinos.ch^
+! ||heute-einkaufen.ch^
+! ||hinos.ch^
 ||hobibear.de^
 ||hobstore.ch^
 ||hofer-zuerich.ch^
 ||hoffmanandhearth.com^
 ||home-kit.ch^
-||home-some.ch^
-||home-xpert.ch^
-||homeaura.ch^
-||homebuddy.ch^
+! ||home-some.ch^
+! ||home-xpert.ch^
+! ||homeaura.ch^
+! ||homebuddy.ch^
 ||homeleben.ch^
-||homelia.ch^
+! ||homelia.ch^
 ||homeloft.ch^
 ||homelux.ch^
-||homemint.ch^
+! ||homemint.ch^
 ||homevibes.ch^
 ||homizon.ch^
 ||honeyboss.ch^
@@ -581,81 +581,81 @@
 ||hygeem.com^
 ||hypestore.ch^
 ||icarus-berlin.de^
-||icarus-zurich.ch^
+! ||icarus-zurich.ch^
 ||ice-switzerland.com^
 ||iconicstreetwear.com^
-||iconlauren.com^
-||idylly.ch^
+! ||iconlauren.com^
+! ||idylly.ch^
 ||ilumix.ch^
 ||impassion.ch^
 ||inboxs.ch^
 ||influenify.ch^
-||ingrid-taschen.de^
-||interiorhomeliving.ch^
+! ||ingrid-taschen.de^
+! ||interiorhomeliving.ch^
 ||interioswiss.ch^
-||intika.ch^
+! ||intika.ch^
 ||io-ny.eu^
-||irishandfit.com^
-||isabella-brown.co.uk^
-||isabella-brownuk.com^
-||ixoria.ch^
+! ||irishandfit.com^
+! ||isabella-brown.co.uk^
+! ||isabella-brownuk.com^
+! ||ixoria.ch^
 ||jamil-lifestyle.ch^
 ||jampri.ch^
-||janssonmode.se^
+! ||janssonmode.se^
 ||jensenmode.nl^
 ||jeweltique.ch^
 ||jintelli.ch^
-||jolana.ch^
+! ||jolana.ch^
 ||jolievital.ch^
-||jovida.ch^
+! ||jovida.ch^
 ||joymo.ch^
 ||julianlugano.ch^
 ||juniorzauber.ch^
-||just-bern.com^
+! ||just-bern.com^
 ||just4dogs.ch^
 ||juwelierkeller.ch^
-||kadabar.com^
-||kaleaa.ch^
+! ||kadabar.com^
+! ||kaleaa.ch^
 ||karmasocks.ch^
-||kartasdeals.ch^
+! ||kartasdeals.ch^
 ||kaufschlau.ch^
 ||kayloa.com^
-||keller-bern.com^
+! ||keller-bern.com^
 ||keller-boutique.ch^
-||keller-boutique.com^
+! ||keller-boutique.com^
 ||keller-luzern.ch^
 ||keller-zurich.ch^
-||kelmo.ch^
+! ||kelmo.ch^
 ||kevinsheffield.com^
 ||khich.ch^
 ||kiddoskiste.de^
 ||kidzly.ch^
 ||kiira.ch^
 ||kingstons.ch^
-||kistenstein.ch^
+! ||kistenstein.ch^
 ||klarenmode.com^
 ||klein-mode.de^
 ||kleinselect.com^
 ||koaala.ch^
-||kobenhavn-modehus.com^
-||kobenhavn-modehus.dk^
+! ||kobenhavn-modehus.com^
+! ||kobenhavn-modehus.dk^
 ||koerperhilfe.de^
 ||kolibrin.de^
 ||kovali.de^
 ||kruger-mode.de^
 ||kuiwo.ch^
-||kumono.ch^
+! ||kumono.ch^
 ||kynubeauty.de^
 ||ladyshaver.ch^
-||lahrner-luzern.ch^
+! ||lahrner-luzern.ch^
 ||lamiso.ch^
-||lancas.ch^
-||larana-berlin.com^
-||laude.ch^
+! ||lancas.ch^
+! ||larana-berlin.com^
+! ||laude.ch^
 ||lavanella-shop.com^
-||lavendolondon.com^
-||lboutique.ch^
-||leabasel.com^
+! ||lavendolondon.com^
+! ||lboutique.ch^
+! ||leabasel.com^
 ||lebensglanz.ch^
 ||lebenslust-shop.at^
 ||lederhermann.com^
@@ -666,78 +666,78 @@
 ||lemodas.com^
 ||lena-boutique.de^
 ||lenaberger.com^
-||lenasole.com^
+! ||lenasole.com^
 ||lennara.ch^
 ||lenomi-berlin.de^
-||lenorezurich.com^
-||leoberlin.de^
-||leonie-mode.de^
-||leorazurich.ch^
+! ||lenorezurich.com^
+! ||leoberlin.de^
+! ||leonie-mode.de^
+! ||leorazurich.ch^
 ||leoza-boutique.com^
-||levarozurich.com^
+! ||levarozurich.com^
 ||levicishop.com^
 ||levuna.ch^
 ||lifenox.com^
 ||lifestyleproducts.ch^
 ||lilulo.ch^
-||lily-coco.ch^
-||limmatshop.ch^
+! ||lily-coco.ch^
+! ||limmatshop.ch^
 ||lindbergmode.de^
 ||lindenhofboutique.com^
-||linnea-lucerne.com^
+! ||linnea-lucerne.com^
 ||linovero.de^
 ||littleasy.ch^
 ||littleginger.ch^
-||littlespark.ch^
+! ||littlespark.ch^
 ||littlewonders.ch^
-||liva-kobenhavn.dk^
-||liva-trends.de^
-||liva-zurich.ch^
+! ||liva-kobenhavn.dk^
+! ||liva-trends.de^
+! ||liva-zurich.ch^
 ||livano.ch^
-||livarose.de^
+! ||livarose.de^
 ||livee.ch^
 ||livemore.ch^
 ||livestor.ch^
-||liviarose.de^
-||livingood.ch^
+! ||liviarose.de^
+! ||livingood.ch^
 ||lobitos.ch^
 ||lolas.ch^
-||loleni.ch^
-||lomix.ch^
-||lookinn.ch^
-||looro.ch^
+! ||loleni.ch^
+! ||lomix.ch^
+! ||lookinn.ch^
+! ||looro.ch^
 ||lopix.ch^
 ||lorafashion.de^
 ||loramuenchen.de^
-||lorvez-paris.com^
+! ||lorvez-paris.com^
 ||loulou-zurich.com^
-||lovania-mode.ch^
+! ||lovania-mode.ch^
 ||loveofhome.ch^
 ||lovina.ch^
 ||lozenda.de^
-||lozendo.com^
+! ||lozendo.com^
 ||luce-bella.com^
-||luckybag.ch^
-||luernafemme.com^
-||luinea.ch^
+! ||luckybag.ch^
+! ||luernafemme.com^
+! ||luinea.ch^
 ||luking.ch^
 ||lulafashion.com^
 ||lumanocare.com^
 ||lumara.ch^
-||lumbocare.at^
-||lumbocare.ch^
+! ||lumbocare.at^
+! ||lumbocare.ch^
 ||lumenrosa.de^
 ||lumerix.ch^
 ||lumina-montreal.com^
-||luminabeauty.ch^
+! ||luminabeauty.ch^
 ||luminas.ch^
 ||lumondo.ch^
 ||luna-bern.com^
-||lunamoda.ch^
-||lunarmode.de^
+! ||lunamoda.ch^
+! ||lunarmode.de^
 ||lunasandals-schweiz.com^
 ||lunero.ch^
-||lunoire.ch^
+! ||lunoire.ch^
 ||lurosa.ch^
 ||luster.ch^
 ||luvley.ch^
@@ -749,187 +749,187 @@
 ||luxinora.com^
 ||luxora.ch^
 ||luxtoy.ch^
-||luxurise-fashion.com^
-||luzern-mode.ch^
+! ||luxurise-fashion.com^
+! ||luzern-mode.ch^
 ||luzernvoss.ch^
 ||lyora-geneve.ch^
-||mabuv.ch^
+! ||mabuv.ch^
 ||mademebuyit.ch^
 ||madepants.de^
-||madio.ch^
-||maefas-zurich.com^
-||maisonberne.ch^
+! ||madio.ch^
+! ||maefas-zurich.com^
+! ||maisonberne.ch^
 ||maisonmilia.ch^
-||maisonzurich.ch^
-||makerdeal.ch^
+! ||maisonzurich.ch^
+! ||makerdeal.ch^
 ||makinghome.ch^
 ||male-nach-zahle.ch^
-||malifer.ch^
+! ||malifer.ch^
 ||mamazon.ch^
-||manel-zurich.ch^
+! ||manel-zurich.ch^
 ||manufakturgruber.com^
-||marenmaymodehaus.ch^
-||maria-modehaus.com^
+! ||marenmaymodehaus.ch^
+! ||maria-modehaus.com^
 ||mariagruenthal.com^
-||mariashaus.ch^
-||marshmallowbett.ch^
+! ||mariashaus.ch^
+! ||marshmallowbett.ch^
 ||martin-couture.ch^
 ||martincouture.ch^
-||marvista.ch^
+! ||marvista.ch^
 ||masanno.com^
-||maurys.ch^
+! ||maurys.ch^
 ||maxeluxe.ch^
 ||maxisneaker.ch^
 ||maxoffer.de^
-||maxvon.ch^
+! ||maxvon.ch^
 ||maya-munchen.com^
 ||medizentrum-doosleep.de^
 ||megalist.ch^
 ||meier-boutique.ch^
-||meier-modehaus.com^
+! ||meier-modehaus.com^
 ||meierschwyz.ch^
 ||meinearbeitsschuhe.com^
-||meinkostüm.ch^
+! ||meinkostüm.ch^
 ||meinmaison.de^
 ||meistertrim.ch^
-||melaniemode.com^
+! ||melaniemode.com^
 ||melivida.ch^
-||melliesmode.com^
-||melvet.ch^
+! ||melliesmode.com^
+! ||melvet.ch^
 ||memashop.ch^
-||mendosa.ch^
-||mendosa.shop^
-||metanel.ch^
+! ||mendosa.ch^
+! ||mendosa.shop^
+! ||metanel.ch^
 ||meyer-geneve.com^
-||meyer-genève.ch^
+! ||meyer-genève.ch^
 ||meyer-zurich.com^
-||meyerbasel.com^
+! ||meyerbasel.com^
 ||mia-modehaus.ch^
-||miabody.at^
-||miabody.ch^
+! ||miabody.at^
+! ||miabody.ch^
 ||miabody.de^
-||mila-home.ch^
+! ||mila-home.ch^
 ||mila-modehaus.ch^
-||milamoda.ch^
+! ||milamoda.ch^
 ||milumia.ch^
-||milyzo.ch^
-||mindbuds.ch^
-||mini-ro.ch^
+! ||milyzo.ch^
+! ||mindbuds.ch^
+! ||mini-ro.ch^
 ||minikauf.ch^
-||minita.ch^
-||minozurich.ch^
+! ||minita.ch^
+! ||minozurich.ch^
 ||miraclemop.ch^
 ||miraitrading.ch^
 ||miravelle.ch^
 ||mireto.ch^
 ||miro-france.com^
-||missglame.de^
-||mivako.com^
-||mivoza-australia.com^
+! ||missglame.de^
+! ||mivako.com^
+! ||mivoza-australia.com^
 ||mivoza-nederland.nl^
 ||mivoza.de^
 ||moda-monica.de^
-||modaers.com^
-||modalitas-it.com^
-||modaralondon.com^
-||mode-galerie.ch^
+! ||modaers.com^
+! ||modalitas-it.com^
+! ||modaralondon.com^
+! ||mode-galerie.ch^
 ||mode-zuri.ch^
-||mode-zurich.com^
-||modea.ch^
+! ||mode-zurich.com^
+! ||modea.ch^
 ||modeberg-bern.ch^
 ||modebern.com^
 ||modefest.de^
-||modehaus-basel.com^
+! ||modehaus-basel.com^
 ||modehaus-blum.com^
-||modehaus-wien.com^
+! ||modehaus-wien.com^
 ||modehausessen.de^
 ||modehausschweiz.ch^
-||modehunziker.ch^
-||modehus-kobenhavn.dk^
-||modekoenig.ch^
-||moderoyale.ch^
-||modespecialistdebruin.nl^
-||modestas.ch^
-||modestas.nl^
+! ||modehunziker.ch^
+! ||modehus-kobenhavn.dk^
+! ||modekoenig.ch^
+! ||moderoyale.ch^
+! ||modespecialistdebruin.nl^
+! ||modestas.ch^
+! ||modestas.nl^
 ||modewelt-zurich.ch^
 ||modeweltmuller.de^
 ||modezuri.ch^
-||modovida.ch^
+! ||modovida.ch^
 ||mokkakai.com^
 ||molana.ch^
-||molix.ch^
-||molneco.ch^
-||molveri.ch^
-||molveschuhe.com^
+! ||molix.ch^
+! ||molneco.ch^
+! ||molveri.ch^
+! ||molveschuhe.com^
 ||mondaro.ch^
-||mondis.ch^
+! ||mondis.ch^
 ||monika-taschen.com^
 ||montalpin.com^
-||montbliss.ch^
+! ||montbliss.ch^
 ||moodaze.ch^
 ||moodclothing.uk^
 ||mooral.ch^
-||mooyam.ch^
+! ||mooyam.ch^
 ||mosaik-nm.ch^
 ||motorradserie.com^
-||moulivo.de^
-||muller-zurich.com^
-||mullerfoxtown.com^
+! ||moulivo.de^
+! ||muller-zurich.com^
+! ||mullerfoxtown.com^
 ||mullermode.ch^
-||mullermodus.com^
+! ||mullermodus.com^
 ||mundowear.fr^
-||my-shy.ch^
-||mybestkid.ch^
+! ||my-shy.ch^
+! ||mybestkid.ch^
 ||mycup.ch^
-||myglowee.ch^
-||myhomenow.ch^
+! ||myglowee.ch^
+! ||myhomenow.ch^
 ||myitalianbracelet.com^
 ||mylittleworld.ch^
 ||myluxina.ch^
-||mymini-me.ch^
+! ||mymini-me.ch^
 ||mynova.ch^
 ||mysalights.com^
-||nalanook.ch^
+! ||nalanook.ch^
 ||nalaundluna.com^
 ||nalora.ch^
 ||nanashave.com^
-||nancys-bags.com^
+! ||nancys-bags.com^
 ||naturcontact.de^
 ||naturcontact.us^
 ||naturvibes.de^
 ||naturwide.de^
 ||nauer-zurich.ch^
-||navoa.ch^
-||navobyshop.com^
+! ||navoa.ch^
+! ||navobyshop.com^
 ||nayk.ch^
-||nazrann.com^
-||nello-auckland.com^
+! ||nazrann.com^
+! ||nello-auckland.com^
 ||nestloves.ch^
 ||neuvo.ch^
-||neva-london.com^
-||neva-madrid.com^
-||neva-zurich.ch^
+! ||neva-london.com^
+! ||neva-madrid.com^
+! ||neva-zurich.ch^
 ||nevano.ch^
 ||nevova-shop.com^
 ||nevova-store.com^
-||nevova.ch^
-||nevova.fr^
-||newhoffmanandhearth.com^
-||nicera.ch^
+! ||nevova.ch^
+! ||nevova.fr^
+! ||newhoffmanandhearth.com^
+! ||nicera.ch^
 ||nikolea.ch^
 ||nina-nicole.de^
 ||ninapedersen.com^
 ||ninefit.ch^
 ||noa-bern.com^
-||nobliance.com^
-||noe-lou.com^
-||nolara-shop.com^
+! ||nobliance.com^
+! ||noe-lou.com^
+! ||nolara-shop.com^
 ||nolivia.ch^
 ||nomio.ch^
 ||nomirituals.com^
-||nooka.ch^
+! ||nooka.ch^
 ||noovis.ch^
-||nordicglow.ch^
+! ||nordicglow.ch^
 ||nordlivingic.com^
 ||nordspur.de^
 ||norwiss.de^
@@ -938,38 +938,38 @@
 ||notino.ch^
 ||notoe.ch^
 ||nouveauriche-official.com^
-||nouvoire.ch^
-||nova-basel.ch^
+! ||nouvoire.ch^
+! ||nova-basel.ch^
 ||nova-schweiz.ch^
-||nova-zurich.ch^
+! ||nova-zurich.ch^
 ||nova-zurich.com^
 ||novabasel.ch^
-||novak-bern.com^
-||novalia-ro.com^
-||novalia-uk.com^
-||novalia-usa.com^
+! ||novak-bern.com^
+! ||novalia-ro.com^
+! ||novalia-uk.com^
+! ||novalia-usa.com^
 ||novamaison.ch^
-||novamaison.shop^
-||novara-capetown.com^
-||novasta-fr.com^
+! ||novamaison.shop^
+! ||novara-capetown.com^
+! ||novasta-fr.com^
 ||novasta.ch^
-||novazurich.com^
+! ||novazurich.com^
 ||novela.ch^
 ||novenza.de^
-||novit.life^
-||novocelo.ch^
-||nuciance-uk.com^
-||nuggydream.de^
-||nureesh.ch^
+! ||novit.life^
+! ||novocelo.ch^
+! ||nuciance-uk.com^
+! ||nuggydream.de^
+! ||nureesh.ch^
 ||nutrischweiz.ch^
 ||oase-mode.de^
-||odense-modehus.dk^
+! ||odense-modehus.dk^
 ||ohmyswiss.ch^
 ||oliverharrisonlondon.co.uk^
 ||olivia-brown.co.uk^
-||olivia-brownuk.com^
-||olivia-modehaus.com^
-||olivias-boutique.fr^
+! ||olivia-brownuk.com^
+! ||olivia-modehaus.com^
+! ||olivias-boutique.fr^
 ||olley.ch^
 ||omnifley.ch^
 ||omnipoint.ch^
@@ -977,17 +977,17 @@
 ||onlygoodstuff.ch^
 ||onyxcookware.ch^
 ||opallaa.ch^
-||optimisticoffer.com^
-||opulentivy.com^
+! ||optimisticoffer.com^
+! ||opulentivy.com^
 ||orderflow.ch^
-||orendashop.ch^
+! ||orendashop.ch^
 ||orgalife.ch^
-||organisieredich.ch^
-||orivix.ch^
+! ||organisieredich.ch^
+! ||orivix.ch^
 ||ortho-pulse.de^
 ||orthoback.de^
 ||orthoclarity.com^
-||orthofreund.ch^
+! ||orthofreund.ch^
 ||orthoheld.ch^
 ||ortholife.ch^
 ||orthopedio.eu^
@@ -995,7 +995,7 @@
 ||ortorex.ch^
 ||ortorex.de^
 ||ouhoe.ch^
-||outdoo.ch^
+! ||outdoo.ch^
 ||outdoorfreunde.ch^
 ||outdoorheld.at^
 ||outdoorheld.uk^
@@ -1004,12 +1004,12 @@
 ||oxyon.ch^
 ||palmos-mode.ch^
 ||pamtu.ch^
-||papayalabs.ch^
-||paradise-paw.com^
-||patido.ch^
-||patrigo.ch^
-||paws4you.ch^
-||pehoba.ch^
+! ||papayalabs.ch^
+! ||paradise-paw.com^
+! ||patido.ch^
+! ||patrigo.ch^
+! ||paws4you.ch^
+! ||pehoba.ch^
 ||pelino.ch^
 ||pelzfreunde.com^
 ||petify.ch^
@@ -1017,277 +1017,277 @@
 ||pfotenmeister.ch^
 ||pfotenquelle.com^
 ||pikk.ch^
-||pimdy.com^
+! ||pimdy.com^
 ||postilo.ch^
 ||potterpremiumstore.com^
 ||powerjets.ch^
-||praktishop.ch^
+! ||praktishop.ch^
 ||prentaly.com^
 ||primaldo.ch^
 ||primdog.ch^
 ||primeship.ch^
-||primeye.ch^
-||projekt-bern.com^
-||puravidalife.ch^
+! ||primeye.ch^
+! ||projekt-bern.com^
+! ||puravidalife.ch^
 ||puredreams.ch^
-||pureshave.ch^
+! ||pureshave.ch^
 ||purestep.co.uk^
 ||purestream.ch^
-||purezurich.ch^
+! ||purezurich.ch^
 ||pylomo.de^
 ||qualitio.ch^
 ||rabattmax.com^
 ||ralphlauren-schweiz.com^
-||realuminarie.ch^
-||redjedeals.nl^
+! ||realuminarie.ch^
+! ||redjedeals.nl^
 ||reise-welt.ch^
 ||relanify.com^
-||relaxedbody.ch^
+! ||relaxedbody.ch^
 ||relaxi.ch^
-||releave.ch^
-||releavecushion.com^
-||relivira.ch^
+! ||releave.ch^
+! ||releavecushion.com^
+! ||relivira.ch^
 ||remesador.es^
-||remobasel.com^
-||rerix.ch^
+! ||remobasel.com^
+! ||rerix.ch^
 ||retro-stage.de^
 ||retroshot.ch^
 ||ricci-stile.it^
 ||richandchic.com^
-||richmond-zurich.ch^
-||rightnowtoys.ch^
-||rileo.ch^
+! ||richmond-zurich.ch^
+! ||rightnowtoys.ch^
+! ||rileo.ch^
 ||rileo.de^
 ||rimara.ch^
 ||rivaro.ch^
 ||rivarsuisse.ch^
 ||rjlivin.ch^
 ||rondor.ch^
-||rosespecialstore.com^
-||rouvahelsinki.com^
+! ||rosespecialstore.com^
+! ||rouvahelsinki.com^
 ||royalgo.ch^
-||royaltier.co^
-||ruchzuerich.ch^
+! ||royaltier.co^
+! ||ruchzuerich.ch^
 ||ruvendo.ch^
 ||rückenmacher.ch^
-||safety-shoes.ch^
-||saisonic.ch^
-||salova.ch^
-||salva-zurich.com^
-||sara-modewinkeltje.nl^
-||sarah-schweiz.com^
+! ||safety-shoes.ch^
+! ||saisonic.ch^
+! ||salova.ch^
+! ||salva-zurich.com^
+! ||sara-modewinkeltje.nl^
+! ||sarah-schweiz.com^
 ||sarando-shop.com^
 ||savepets.ch^
 ||schaffner-basel.ch^
-||schmidmodesalzburg.de^
+! ||schmidmodesalzburg.de^
 ||schmidt-modehaus.de^
 ||schmidtstil.com^
 ||schneider-fashionhouse.com^
-||schneider-mode.ch^
-||schneiderdusseldorf.de^
-||schneidersalzburg.at^
+! ||schneider-mode.ch^
+! ||schneiderdusseldorf.de^
+! ||schneidersalzburg.at^
 ||schubertmode.de^
 ||schulte-boutique.de^
 ||schulzmode.de^
 ||schumbag.ch^
-||schweiz 🇨🇭er-modewelt.com^
-||schweiz-mode.com^
-||schweizer-modehaus.ch^
+! ||schweiz 🇨🇭er-modewelt.com^
+! ||schweiz-mode.com^
+! ||schweizer-modehaus.ch^
 ||schweizer-modewelt.com^
 ||schweizleben.ch^
-||schweizmoda.com^
-||schweizwaren.com^
+! ||schweizmoda.com^
+! ||schweizwaren.com^
 ||seame-brand.com^
-||seazon.ch^
+! ||seazon.ch^
 ||seazonary.ch^
-||secretteddy.com^
-||seiswiss.ch^
+! ||secretteddy.com^
+! ||seiswiss.ch^
 ||sekoda-ch.com^
 ||selectro.ch^
 ||selway.ch^
 ||senovaswitzerland.ch^
 ||shapees.ch^
 ||shopinbit.com^
-||shopino-zurich.ch^
+! ||shopino-zurich.ch^
 ||shoplix.ch^
 ||shopluuma.de^
-||shoptimal.ch^
-||silentnite.ch^
-||silken-swiss.com^
-||silkerswiss.com^
+! ||shoptimal.ch^
+! ||silentnite.ch^
+! ||silken-swiss.com^
+! ||silkerswiss.com^
 ||simpls.ch^
-||sinnra.ch^
-||sivalomode.com^
+! ||sinnra.ch^
+! ||sivalomode.com^
 ||skebba.com^
 ||skins4all.ch^
 ||slimsculedll.com^
 ||slyk.ch^
 ||smart-schmerzfrei.de^
-||smartbrush.ch^
+! ||smartbrush.ch^
 ||smartmansion.ch^
-||smilesshop.ch^
+! ||smilesshop.ch^
 ||snugglepaw.ch^
 ||snugglys.ch^
 ||sodeal.ch^
-||soera.ch^
-||sofia-melbourne.com^
-||sofia-weber.ch^
-||sofiadress.ch^
+! ||soera.ch^
+! ||sofia-melbourne.com^
+! ||sofia-weber.ch^
+! ||sofiadress.ch^
 ||solarenergie-beleuchtung.ch^
 ||solarisstudios.ch^
 ||solayah.com^
-||soledea.ch^
+! ||soledea.ch^
 ||soleill.ch^
 ||soloshave.ch^
-||solufamily.ch^
+! ||solufamily.ch^
 ||solvanegeneve.com^
 ||sophia-bern.ch^
 ||sophia-sydney.com^
 ||sorensenstil.dk^
 ||soulful-berlin.de^
 ||soulona.com^
-||sovendy-official.com^
+! ||sovendy-official.com^
 ||sparoase.ch^
 ||speczer.ch^
-||spielzeugfant.ch^
+! ||spielzeugfant.ch^
 ||sr-shop.ch^
 ||stahlgear.de^
 ||stanwi.com^
-||starseater.ch^
+! ||starseater.ch^
 ||starsway.ch^
 ||statiko.com^
-||steigenberger-zurich.com^
-||steiner-bern.ch^
-||steinermode.ch^
-||stella-zurich.com^
+! ||steigenberger-zurich.com^
+! ||steiner-bern.ch^
+! ||steinermode.ch^
+! ||stella-zurich.com^
 ||stellabrillantejewellery.ch^
 ||stmoritz-boutique.ch^
-||storeo.ch^
-||storevillage.ch^
+! ||storeo.ch^
+! ||storevillage.ch^
 ||strauss-mode.com^
 ||stucki-luzern.ch^
 ||studio-elva.de^
 ||stuhlbezug.ch^
-||stussyshoodiesch.com^
+! ||stussyshoodiesch.com^
 ||stutz-zuerich.ch^
-||stylow.ch^
+! ||stylow.ch^
 ||su.vogany.com^
 ||sudrabern.com^
-||suissechiq.ch^
-||suissemotion.ch^
+! ||suissechiq.ch^
+! ||suissemotion.ch^
 ||sukisato.com^
 ||sunzone.ch^
 ||superiorselections.ch^
-||surio.ch^
-||suter-mode-luzern.ch^
-||sutermodeluzern.ch^
-||suvee.ch^
+! ||surio.ch^
+! ||suter-mode-luzern.ch^
+! ||sutermodeluzern.ch^
+! ||suvee.ch^
 ||svelton.com^
 ||sweater-club.com^
-||sweet-babys.ch^
-||sweetface.ch^
+! ||sweet-babys.ch^
+! ||sweetface.ch^
 ||sweetsparkle.ch^
-||swify.ch^
+! ||swify.ch^
 ||swiss-fashion.ch^
-||swiss-mody.com^
+! ||swiss-mody.com^
 ||swiss4less.com^
 ||swissbutik.com^
 ||swissdivasfit.ch^
 ||swissgadget.ch^
 ||swissgadgets.ch^
-||swissgemz.ch^
-||swissimode.com^
+! ||swissgemz.ch^
+! ||swissimode.com^
 ||swisslagerverkauf.ch^
 ||swissleggys.ch^
-||swissleno.ch^
+! ||swissleno.ch^
 ||swisslona.ch^
-||swissmino.ch^
-||swisspedics.ch^
+! ||swissmino.ch^
+! ||swisspedics.ch^
 ||swisspedics.shop^
-||swissplatinum.ch^
+! ||swissplatinum.ch^
 ||swissskip.ch^
 ||swissstep.com^
-||swisstailored.ch^
-||swisswardrobe.com^
-||swisszar.com^
-||switella.ch^
+! ||swisstailored.ch^
+! ||swisswardrobe.com^
+! ||swisszar.com^
+! ||switella.ch^
 ||swithy.ch^
-||switzes.com^
+! ||switzes.com^
 ||swoxx.ch^
 ||symplyshop.ch^
-||tamaz.ch^
-||tanora-shop.com^
+! ||tamaz.ch^
+! ||tanora-shop.com^
 ||tanora.co^
 ||taschenschmied.de^
-||tassetrend.de^
+! ||tassetrend.de^
 ||tavendia.de^
-||taylor-londonuk.com^
-||tectech.ch^
+! ||taylor-londonuk.com^
+! ||tectech.ch^
 ||teki-ch.com^
 ||temala.de^
 ||terraiaswiss.ch^
 ||the-home.ch^
-||theboutique.ch^
+! ||theboutique.ch^
 ||thegenetix.com^
-||theneocupswiss.com^
+! ||theneocupswiss.com^
 ||theoak.ch^
-||thetinythrone.ch^
-||ticaso.ch^
-||tickgreen.net^
+! ||thetinythrone.ch^
+! ||ticaso.ch^
+! ||tickgreen.net^
 ||tierbedarf-plus.de^
 ||tierseelen.com^
-||tina-taschen.de^
-||tisoli.ch^
+! ||tina-taschen.de^
+! ||tisoli.ch^
 ||titean.ch^
 ||tivas.ch^
 ||tokshop.ch^
-||toolit.ch^
-||toolu.ch^
-||topgamers.ch^
+! ||toolit.ch^
+! ||toolu.ch^
+! ||topgamers.ch^
 ||toptop.sk^
 ||toyscentral.ch^
 ||traumraum.ch^
-||travelwolves.ch^
-||trend-box.ch^
-||trendea.ch^
-||trendful-swiss.ch^
-||trendhive24.com^
+! ||travelwolves.ch^
+! ||trend-box.ch^
+! ||trendea.ch^
+! ||trendful-swiss.ch^
+! ||trendhive24.com^
 ||trendlav.ch^
-||trendmarket.ch^
+! ||trendmarket.ch^
 ||trends-for-you.ch^
 ||trendsspot.ch^
-||trendwelt-zurich.ch^
+! ||trendwelt-zurich.ch^
 ||trendwurm24.de^
-||trendy-zurich.com^
+! ||trendy-zurich.com^
 ||trendypreis.ch^
 ||trendypreis.de^
 ||trendz-it.ch^
 ||trinktiger.de^
-||troublefree.ch^
+! ||troublefree.ch^
 ||truedesire.ch^
-||truefresh.ch^
+! ||truefresh.ch^
 ||tryfolliclelab.com^
-||trymiu.ch^
-||tughi.eu^
+! ||trymiu.ch^
+! ||tughi.eu^
 ||turbodetailmodels.com^
-||tykki.ch^
+! ||tykki.ch^
 ||u-foot.com^
 ||ufoot.ch^
-||ukana.ch^
-||ukseazon.com^
+! ||ukana.ch^
+! ||ukseazon.com^
 ||ultimus.ch^
-||ultradeal.ch^
+! ||ultradeal.ch^
 ||uniqly.ch^
 ||uniquee.shop^
 ||unyka.ch^
 ||up-bottles.ch^
 ||ursprungsgang.at^
-||usely.ch^
-||utopiazurich.com^
+! ||usely.ch^
+! ||utopiazurich.com^
 ||valora-mode.com^
 ||vamos-mode.ch^
 ||vandammestijl.be^
-||vandammestyle.fr^
+! ||vandammestyle.fr^
 ||vanessazurich.ch^
 ||vangillis.nl^
 ||vanhalenmode.nl^
@@ -1298,84 +1298,84 @@
 ||velthentic.com^
 ||velurashop.ch^
 ||veluraswitzerland.ch^
-||velva.ch^
+! ||velva.ch^
 ||vendio.ch^
 ||vendizi.ch^
-||venero.ch^
-||venevo-london.com^
+! ||venero.ch^
+! ||venevo-london.com^
 ||veniria.com^
 ||venopflast.ch^
-||venuvia.ch^
-||verenelle.com^
+! ||venuvia.ch^
+! ||verenelle.com^
 ||verillo.ch^
 ||veronora.ch^
 ||versand-studer.ch^
-||vesca.ch^
+! ||vesca.ch^
 ||vestea-fashion.com^
-||vexorin.ch^
-||vezana.ch^
+! ||vexorin.ch^
+! ||vezana.ch^
 ||viamoderna.ch^
 ||viarla.com^
 ||vicoshundewelt.ch^
-||victorymix.ch^
+! ||victorymix.ch^
 ||vidao.ch^
 ||viktorias.ch^
 ||vinciboutique.ch^
-||vintage-royaute.ch^
-||vintella.ch^
-||violetandrose.de^
-||violetrosee.com^
+! ||vintage-royaute.ch^
+! ||vintella.ch^
+! ||violetandrose.de^
+! ||violetrosee.com^
 ||virello.ch^
 ||virevo.ch^
-||virona.ch^
+! ||virona.ch^
 ||vision-one.ch^
 ||vistero.ch^
-||vitality-schweiz.ch^
+! ||vitality-schweiz.ch^
 ||vitanor.ch^
 ||vitavix.de^
-||vivar.ch^
+! ||vivar.ch^
 ||vivario.ch^
-||vivozas.com^
-||vlizo-berlin.de^
-||vlizo-schweiz.com^
-||vlizo-zurich.ch^
-||vlizo-zurich.com^
+! ||vivozas.com^
+! ||vlizo-berlin.de^
+! ||vlizo-schweiz.com^
+! ||vlizo-zurich.ch^
+! ||vlizo-zurich.com^
 ||vlizo.com^
 ||voelkli.ch^
 ||vogel-mode.ch^
-||vogish.ch^
-||vogue-zurich.com^
-||voltrao.shop^
+! ||vogish.ch^
+! ||vogue-zurich.com^
+! ||voltrao.shop^
 ||volux.ch^
 ||von-adler.ch^
 ||voncronberg.com^
 ||vonzurichatelier.ch^
-||voovo.ch^
+! ||voovo.ch^
 ||vorena.ch^
-||voriada.com^
+! ||voriada.com^
 ||voroda.de^
-||vorteilhaus.com^
-||vsbeautyworld.com^
+! ||vorteilhaus.com^
+! ||vsbeautyworld.com^
 ||vudy.ch^
-||vueva.ch^
+! ||vueva.ch^
 ||vulsive.com^
-||vynxaria.com^
+! ||vynxaria.com^
 ||wagner-lederhaus.com^
-||wagnerzuri.ch^
+! ||wagnerzuri.ch^
 ||wagnerzurich.ch^
-||wagnerzurich.com^
+! ||wagnerzurich.com^
 ||walthermode.com^
 ||warmood.ch^
 ||watchharbor.de^
-||watchmart.ch^
-||wavenflo-zurich.ch^
+! ||watchmart.ch^
+! ||wavenflo-zurich.ch^
 ||wear-nova.com^
 ||wearbreeze.de^
-||wearmaya.ch^
-||weber-mode.ch^
+! ||wearmaya.ch^
+! ||weber-mode.ch^
 ||weberbern.ch^
-||webermode.ch^
-||wedealit.com^
+! ||webermode.ch^
+! ||wedealit.com^
 ||wedress.ch^
 ||weisszurich.com^
 ||wellbeing-store.ch^
@@ -1383,17 +1383,17 @@
 ||westylehome.com^
 ||wiecel.com^
 ||wilhelmversand.ch^
-||wilhelmwald.ch^
-||wilino.ch^
+! ||wilhelmwald.ch^
+! ||wilino.ch^
 ||willbach.ch^
-||williamsmelbourne.com^
-||willibraun.ch^
-||willowandrosestore.com^
-||wilma-tassen.nl^
+! ||williamsmelbourne.com^
+! ||willibraun.ch^
+! ||willowandrosestore.com^
+! ||wilma-tassen.nl^
 ||wohnherz.ch^
 ||wolffashion.de^
 ||wolkenschaukel.de^
-||womennest.ch^
+! ||womennest.ch^
 ||womenscare.ch^
 ||worldwide-market.ch^
 ||wuffiwelt.de^
@@ -1402,62 +1402,62 @@
 ||wwmode.de^
 ||xelio.ch^
 ||xn--rckenmacher-thb.ch^
-||xn--zrich-modehaus-gsb.ch^
+! ||xn--zrich-modehaus-gsb.ch^
 ||xplorgreen.de^
 ||yoho.ch^
-||you-goods-essentials.com^
-||you-products.ch^
-||youharmony-store.com^
-||yourstoreswiss.ch^
+! ||you-goods-essentials.com^
+! ||you-products.ch^
+! ||youharmony-store.com^
+! ||yourstoreswiss.ch^
 ||yoyou.ch^
 ||yozo.ch^
-||yu-me.ch^
+! ||yu-me.ch^
 ||yuvara.ch^
 ||yuwanet.ch^
-||yves-modehaus.ch^
-||zabella.ch^
-||zalana.ch^
-||zara-zurich.com^
-||zarela-luzern.com^
-||zarela-quebec.com^
-||zarreti.ch^
+! ||yves-modehaus.ch^
+! ||zabella.ch^
+! ||zalana.ch^
+! ||zara-zurich.com^
+! ||zarela-luzern.com^
+! ||zarela-quebec.com^
+! ||zarreti.ch^
 ||zarreti.com^
-||zazoza-danmark.com^
-||zazoza-swiss.com^
+! ||zazoza-danmark.com^
+! ||zazoza-swiss.com^
 ||zeals.ch^
-||zeleva.ch^
+! ||zeleva.ch^
 ||zeleva.eu^
 ||zenbodyshop.ch^
-||zenith-zurich.com^
+! ||zenith-zurich.com^
 ||zenvada.de^
-||zenze-zurich.com^
-||zenze.ch^
-||zerano.ch^
-||zermith.com^
+! ||zenze-zurich.com^
+! ||zenze.ch^
+! ||zerano.ch^
+! ||zermith.com^
 ||ziegler-zurich.ch^
 ||zieglerzurich.ch^
-||ziforia.de^
-||zinora.ch^
+! ||ziforia.de^
+! ||zinora.ch^
 ||zivora.nl^
 ||zoisfragrance.ch^
 ||zonevo-london.com^
-||zonevo.ch^
+! ||zonevo.ch^
 ||zorenza.de^
-||zuhauseshop.ch^
-||zula.se^
-||zulakbh.dk^
-||zulana.ch^
-||zulazurich.ch^
+! ||zuhauseshop.ch^
+! ||zula.se^
+! ||zulakbh.dk^
+! ||zulana.ch^
+! ||zulazurich.ch^
 ||zuramo.de^
 ||zuri-fashion.ch^
-||zurich-feinste.ch^
+! ||zurich-feinste.ch^
 ||zurich-mode.com^
 ||zurich-muller.ch^
 ||zurichfashionboutique.com^
 ||zurichmodehaus.com^
 ||zurichshop.ch^
-||zurifashion.ch^
+! ||zurifashion.ch^
 ||zurifashion.com^
-||zurimode.ch^
+! ||zurimode.ch^
 ||zv-nt.com^
-||zürich-modehaus.ch^
+! ||zürich-modehaus.ch^

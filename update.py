@@ -33,12 +33,11 @@ SOURCE_URL = (
     "https://www.konsumentenschutz.ch/online-ratgeber/"
     "dropshipping-die-stolpersteine-beim-onlinehandel-mit-billigware-aus-china/"
 )
-REPO_DIR = Path(".")
-FILTER_FILE = REPO_DIR / "dropshipping-filters.txt"
-CSV_FILE = REPO_DIR / "dropshipping-shops.csv"
+REPO_DIR     = Path(".")
+FILTER_FILE  = REPO_DIR / "dropshipping-filters.txt"
+CSV_FILE     = REPO_DIR / "dropshipping-shops.csv"
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
-
 
 def fail(message: str) -> None:
     """Print a clear error message and exit with a non-zero status."""
@@ -69,11 +68,11 @@ def normalise_domain(raw: str) -> str:
     domain = raw.strip().lower()
     for prefix in ("https://", "http://"):
         if domain.startswith(prefix):
-            domain = domain[len(prefix) :]
+            domain = domain[len(prefix):]
     if domain.startswith("www."):
         domain = domain[4:]
-    domain = domain.split("/")[0]  # drop any path component
-    domain = domain.split("?")[0]  # drop query strings
+    domain = domain.split("/")[0]   # drop any path component
+    domain = domain.split("?")[0]   # drop query strings
     return domain
 
 
@@ -103,9 +102,7 @@ target_table = None
 for table in soup.find_all("table"):
     headers_row = table.find("tr")
     if headers_row:
-        cell_texts = [
-            th.get_text(strip=True) for th in headers_row.find_all(["th", "td"])
-        ]
+        cell_texts = [th.get_text(strip=True) for th in headers_row.find_all(["th", "td"])]
         # Match on the key columns (language-independent minimum)
         if any("Website" in t for t in cell_texts):
             target_table = table
@@ -120,7 +117,7 @@ if target_table is None:
 
 # Parse header row
 header_cells = target_table.find("tr").find_all(["th", "td"])
-column_names = [c.get_text(strip=True) for c in header_cells]
+column_names  = [c.get_text(strip=True) for c in header_cells]
 print(f"   Table columns: {column_names}")
 
 # Parse data rows (skip header)
@@ -133,7 +130,7 @@ for tr in target_table.find_all("tr")[1:]:
     # Pad row if it has fewer columns than the header
     while len(row) < len(column_names):
         row.append("")
-    rows.append(row[: len(column_names)])
+    rows.append(row[:len(column_names)])
 
 if not rows:
     fail("The table was found but contained no data rows.")
@@ -161,7 +158,7 @@ except OSError as exc:
 # Identify the Website column index
 website_col = next(
     (i for i, name in enumerate(column_names) if "website" in name.lower()),
-    0,  # fall back to first column
+    0,   # fall back to first column
 )
 
 domains = []
@@ -170,7 +167,7 @@ for row in rows:
     if not raw:
         continue
     domain = normalise_domain(raw)
-    if domain and "." in domain:  # rough sanity check
+    if domain and "." in domain:      # rough sanity check
         domains.append(domain)
 
 # Deduplicate while preserving order
@@ -186,16 +183,22 @@ if not unique_domains:
 
 print(f"\n🛡  Building uBlock filter list ({len(unique_domains)} domains) …")
 
-# uBlock Origin / Adblock Plus filter syntax:
-#   ||example.com^   blocks all requests to example.com (and subdomains)
+# uBlock Origin filter list format (EasyList-compatible):
+#   ! Title:        shown in the uBO dashboard
+#   ! Expires:      how often uBO re-fetches the list
+#   ! Version:      numeric, used by uBO to detect updates (YYYYMMDDHHmm)
+#   ||example.com^  blocks all requests to example.com and subdomains
 now_iso = datetime.now(timezone.utc).isoformat(timespec="seconds")
+version = datetime.now(timezone.utc).strftime("%Y%m%d%H%M")
 lines = [
     "! Title: Switzerland Dropshipping Block List",
     "! Description: Problematic dropshipping shops identified by Konsumentenschutz.ch",
+    f"! Homepage: https://github.com/kdansky/switzerland-dropshipping",
     f"! Source: {SOURCE_URL}",
-    f"! Last updated: {now_iso}",
+    f"! Last modified: {now_iso}",
+    f"! Version: {version}",
+    "! Expires: 1 day (update frequency)",
     f"! Entries: {len(unique_domains)}",
-    "! Homepage: https://github.com/YOUR_USERNAME/switzerland-dropshipping",
     "!",
 ]
 for domain in sorted(unique_domains):
